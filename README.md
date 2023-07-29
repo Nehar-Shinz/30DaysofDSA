@@ -1,9 +1,3 @@
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 # 30 Days of DSA!
 
 Hi there 👋, This is a 30 days of code milestone that I use to challenge myself to brush up on the basics of Data Structures and Algorithm. Feel free to use it as much as I do often. Cheers!
@@ -18,7 +12,7 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
 ### Contents
 
 <center>
-<table text-align=center border=solid width=100%>
+<table style="width:100%" border=solid width=100%>
     <tr>
         <th><strong><center>Days</center></strong></th> 
         <th><strong><center>Problem</center></strong></th> 
@@ -121,7 +115,6 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
     </tr>   
 </table>
 </center>
----
 <p align="center">
 ⭐ this repository if you liked it.
 <br>
