@@ -1,3 +1,9 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 # 30 Days of DSA!
 
 Hi there 👋, This is a 30 days of code milestone that I use to challenge myself to brush up on the basics of Data Structures and Algorithm. Feel free to use it as much as I do often. Cheers!
@@ -6,7 +12,7 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
 
 <div align="center">
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VS Codium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white)
 </div>
 
 ### Contents
@@ -115,7 +121,7 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
     </tr>   
 </table>
 </center>
-
+---
 <p align="center">
 ⭐ this repository if you liked it.
 <br>
