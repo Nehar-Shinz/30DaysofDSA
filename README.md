@@ -1,3 +1,8 @@
+<style>table colgroup col {
+    width: auto !important;
+}
+</style>
+
 # 30 Days of DSA!
 
 Hi there 👋, This is a 30 days of code milestone that I use to challenge myself to brush up on the basics of Data Structures and Algorithm. Feel free to use it as much as I do often. Cheers!
