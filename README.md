@@ -12,9 +12,9 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
 
 ---
 ### Contents
-<div align=center style="width:100%">
-<table style="width:100%; margin:0;
-    padding:0;" border=solid>
+
+<center>
+<table text-align=center border=solid width=100%>
     <tr>
         <th><strong><center>Days</center></strong></th><tc> 
         <th><strong><center>Problem</center></strong></th></tc>
