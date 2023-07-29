@@ -1,6 +1,12 @@
 # 30 Days of DSA!
 
-Hi there 👋, This is a 30 days of code milestone that I use to challenge myself to brush up on the basics of Data Structures and Algorithm. Feel free to use it as much as I do often. Cheers!
+Hello there! 👋 
+
+This is a 30-day coding milestone that I use to challenge myself and brush up on the fundamentals of Data Structures and Algorithms. As I progress, I will document my learnings and challenges, fostering a valuable resource that I can refer back to and share with fellow coding enthusiasts.
+
+Feel free to join me in this 30-day coding challenge and adapt it to suit your own learning goals. Let's embark on this exciting journey together, celebrating our progress and overcoming obstacles along the way. Here's to continuous improvement and the joy of coding! 
+
+Cheers! 🚀
 
 ### Languages & tools used:
 
@@ -13,8 +19,7 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
 ---
 ### Contents
 
-<div align="center">
-<table border=solid width=100%>
+<table align="center" border=solid width=100%>
     <tr>
         <th><strong><center>Days</center></strong></th>
         <th><strong><center>Problem</center></strong></th>
@@ -116,7 +121,6 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
         </td>   
     </tr>   
 </table>
-</div>
 
 ---
 <p align="center">
