@@ -12,8 +12,8 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
 
 ---
 ### Contents
-<div align=center>
-<table style="width:100%" border=solid width=100%>
+<div align=center style="width:100%">
+<table style="width:100%" border=solid>
     <tr>
         <th><strong><center>Days</center></strong></th> 
         <th><strong><center>Problem</center></strong></th> 
