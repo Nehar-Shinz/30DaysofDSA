@@ -13,15 +13,11 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
 ---
 ### Contents
 <div align=center style="width:100%">
-<<<<<<< HEAD
 <table style="width:100%; margin:0;
     padding:0;" border=solid>
-=======
-<table style="width:100%" border=solid>
->>>>>>> ac92e516e42ee408eacd466fb28e21509ae367a1
     <tr>
-        <th><strong><center>Days</center></strong></th>
-        <th><strong><center>Problem</center></strong></th>
+        <th><strong><center>Days</center></strong></th><tc> 
+        <th><strong><center>Problem</center></strong></th></tc>
     </tr>
     <tr>
         <td><center>1</center></td>    
