@@ -11,6 +11,7 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
 
 ### Contents
 
+<center>
 <table text-align=center border=solid width=100%>
     <tr>
         <th><strong><center>Days</center></strong></th> 
@@ -113,13 +114,10 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
         </td>   
     </tr>   
 </table>
+</center>
 
----
 <p align="center">
-Last Updated :
-</p>
-<p align="center">
-Please ⭐ this repository if you loved it !
+⭐ this repository if you liked it.
 <br>
 <br>
 <b>Nehar Shinz<b>
