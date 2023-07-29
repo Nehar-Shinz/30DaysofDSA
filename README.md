@@ -1,8 +1,3 @@
-<style>table colgroup col {
-    width: auto !important;
-}
-</style>
-
 # 30 Days of DSA!
 
 Hi there 👋, This is a 30 days of code milestone that I use to challenge myself to brush up on the basics of Data Structures and Algorithm. Feel free to use it as much as I do often. Cheers!
@@ -13,10 +8,11 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![VS Codium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white)
 </div>
+<br>
 
+---
 ### Contents
-
-<center>
+<div align=center>
 <table style="width:100%" border=solid width=100%>
     <tr>
         <th><strong><center>Days</center></strong></th> 
@@ -119,7 +115,9 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
         </td>   
     </tr>   
 </table>
-</center>
+</div>
+
+---
 <p align="center">
 ⭐ this repository if you liked it.
 <br>
