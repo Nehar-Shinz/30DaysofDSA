@@ -2,7 +2,7 @@
 
 Hi there 👋, This is a 30 days of code milestone that I use to challenge myself to brush up on the basics of Data Structures and Algorithm. Feel free to use it as much as I do often. Cheers!
 
-#### Languages & Tools used:
+### Languages & tools used:
 
 <div align="center">
 
@@ -13,11 +13,11 @@ Hi there 👋, This is a 30 days of code milestone that I use to challenge mysel
 ---
 ### Contents
 
-<center>
-<table text-align=center border=solid width=100%>
+<div align="center">
+<table border=solid width=100%>
     <tr>
-        <th><strong><center>Days</center></strong></th><tc> 
-        <th><strong><center>Problem</center></strong></th></tc>
+        <th><strong><center>Days</center></strong></th>
+        <th><strong><center>Problem</center></strong></th>
     </tr>
     <tr>
         <td><center>1</center></td>    
