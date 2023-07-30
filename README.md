@@ -12,10 +12,10 @@ Cheers! 🚀
 
 <div align="center">
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![VS Codium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![VS Codium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white)
 </div>
 <br>
 
@@ -128,6 +128,14 @@ Cheers! 🚀
          <td>
             <a href="13. Merge Sort.ipynb">
                 Merge Sort
+            </a>
+        </td>   
+    </tr>
+    <tr>
+        <td><center>14</center></td>    
+         <td>
+            <a href="14. Shell Sort.ipynb">
+                Shell Sort
             </a>
         </td>   
     </tr> 
