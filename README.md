@@ -1,10 +1,10 @@
 # 30 Days of DSA!
 
-Hello there! 👋 
+Hello there! 👋
 
 This is a 30-day coding milestone that I use to challenge myself and brush up on the fundamentals of Data Structures and Algorithms. As I progress, I will document my learnings and challenges, fostering a valuable resource that I can refer back to and share with fellow coding enthusiasts.
 
-Feel free to join me in this 30-day coding challenge and adapt it to suit your own learning goals. Let's embark on this exciting journey together, celebrating our progress and overcoming obstacles along the way. Here's to continuous improvement and the joy of coding! 
+Feel free to join me in this 30-day coding challenge and adapt it to suit your own learning goals. Let's embark on this exciting journey together, celebrating our progress and overcoming obstacles along the way. Here's to continuous improvement and the joy of coding!
 
 Cheers! 🚀
 
@@ -16,10 +16,12 @@ Cheers! 🚀
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![VS Codium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white)
+
 </div>
 <br>
 
 ---
+
 ### Contents
 
 <table align="center" border=solid width=100%>
@@ -30,7 +32,7 @@ Cheers! 🚀
     <tr>
         <td><center>1</center></td>    
         <td>
-            <a href="01. SinglyLinkedList.ipynb">
+            <a href="01. Singly Linked List.ipynb">
                 Singly Linked List
             </a>
         </td>  
@@ -70,7 +72,7 @@ Cheers! 🚀
     <tr>
         <td><center>6</center></td>    
          <td>
-            <a href="06. DoublyLinkedList.ipynb">
+            <a href="06. Doubly Linked List.ipynb">
                 Doubly Linked List
             </a>
         </td>   
@@ -110,7 +112,7 @@ Cheers! 🚀
     <tr>
         <td><center>11</center></td>    
          <td>
-            <a href="11.Quick Sort.ipynb">
+            <a href="11. Quick Sort.ipynb">
                 Quick Sort
             </a>
         </td>   
@@ -139,9 +141,18 @@ Cheers! 🚀
             </a>
         </td>   
     </tr> 
+    <tr>
+        <td><center>15</center></td>    
+         <td>
+            <a href="15. Selection Sort.ipynb">
+                Selection Sort
+            </a>
+        </td>   
+    </tr> 
 </table>
 
 ---
+
 <p align="center">
 ⭐ this repository if you liked it.
 <br>
