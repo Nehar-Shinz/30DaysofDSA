@@ -148,6 +148,14 @@ Cheers! 🚀
                 Selection Sort
             </a>
         </td>   
+    </tr>
+    <tr>
+        <td><center>16</center></td>    
+         <td>
+            <a href="16. DFS.ipynb">
+                Depth first Search
+            </a>
+        </td>   
     </tr> 
 </table>
 
