@@ -157,6 +157,14 @@ Cheers! 🚀
             </a>
         </td>   
     </tr> 
+    <tr>
+        <td><center>17</center></td>    
+         <td>
+            <a href="17. BFS.ipynb">
+                Breadth first Search
+            </a>
+        </td>   
+    </tr> 
 </table>
 
 ---
