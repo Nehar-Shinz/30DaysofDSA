@@ -165,6 +165,14 @@ Cheers! 🚀
             </a>
         </td>   
     </tr> 
+    <tr>
+        <td><center>18</center></td>    
+         <td>
+            <a href="18. Connected Components Count.ipynb">
+                Connected Components Count
+            </a>
+        </td>   
+    </tr> 
 </table>
 
 ---
