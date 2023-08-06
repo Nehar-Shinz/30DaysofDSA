@@ -173,6 +173,14 @@ Cheers! 🚀
             </a>
         </td>   
     </tr> 
+    <tr>
+        <td><center>19</center></td>    
+         <td>
+            <a href="19. Biggest Connected Component.ipynb">
+                Biggest Connected Component
+            </a>
+        </td>   
+    </tr>
 </table>
 
 ---
