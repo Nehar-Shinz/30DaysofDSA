@@ -181,6 +181,14 @@ Cheers! 🚀
             </a>
         </td>   
     </tr>
+    <tr>
+        <td><center>20</center></td>    
+         <td>
+            <a href="20. BFS Shortest Path Length.ipynb">
+                BFS Shortest Path Length
+            </a>
+        </td>   
+    </tr>
 </table>
 
 ---
