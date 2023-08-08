@@ -189,6 +189,14 @@ Cheers! 🚀
             </a>
         </td>   
     </tr>
+    <tr>
+        <td><center>21</center></td>    
+         <td>
+            <a href="21. Island Count.ipynb">
+                Island Count
+            </a>
+        </td>   
+    </tr>
 </table>
 
 ---
