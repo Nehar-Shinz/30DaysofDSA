@@ -197,6 +197,14 @@ Cheers! 🚀
             </a>
         </td>   
     </tr>
+    <tr>
+        <td><center>22</center></td>    
+         <td>
+            <a href="22. Smallest Island Size.ipynb">
+                Smallest Island Size.ipynb
+            </a>
+        </td>   
+    </tr>
 </table>
 
 ---
