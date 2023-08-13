@@ -201,7 +201,15 @@ Cheers! 🚀
         <td><center>22</center></td>    
          <td>
             <a href="22. Smallest Island Size.ipynb">
-                Smallest Island Size.ipynb
+                Smallest Island Size
+            </a>
+        </td>   
+    </tr>
+    <tr>
+        <td><center>23</center></td>    
+         <td>
+            <a href="23. BFS Print Shortest Path.ipynb">
+                BFS Find Shortest Path
             </a>
         </td>   
     </tr>
