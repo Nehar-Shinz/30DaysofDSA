@@ -213,6 +213,14 @@ Cheers! 🚀
             </a>
         </td>   
     </tr>
+    <tr>
+        <td><center>24</center></td>    
+         <td>
+            <a href="24. BFS Dungeon Escape.ipynb">
+                BFS Dungeon Escape
+            </a>
+        </td>   
+    </tr>
 </table>
 
 ---
