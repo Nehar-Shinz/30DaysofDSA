@@ -221,6 +221,14 @@ Cheers! 🚀
             </a>
         </td>   
     </tr>
+    <tr>
+        <td><center>25</center></td>    
+         <td>
+            <a href="25. Topological Sort.ipynb">
+                Topological Sort
+            </a>
+        </td>   
+    </tr>
 </table>
 
 ---
